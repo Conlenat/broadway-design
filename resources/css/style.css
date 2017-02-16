@@ -1,0 +1,29 @@
+body {
+  text-align:center;
+  font-family:Helvetica;
+}
+
+.maintitle {
+  font-weight:bold;
+  font-size:70px;
+}
+
+.white {
+  color:white;
+}
+
+ p {
+   font-size:14px;
+ }
+
+h3, h2 {
+  font-weight:bold;
+}
+
+h2 {
+  font-size:32px;
+}
+
+h3 {
+  font-size:23px;
+}
